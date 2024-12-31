@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to incorrectly nested elements. Specifically, a paragraph tag (<p>) is incorrectly nested within another paragraph tag, leading to unexpected rendering and layout issues. The solution shows how to correct this by properly nesting the paragraph tag.
